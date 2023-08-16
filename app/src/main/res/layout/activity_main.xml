@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <com.roynaldi19.bpai01_02ticketingapps.SeatsView
+    <com.roynaldi19.dc4_01ticketingapps.SeatsView
         android:id="@+id/seatsView"
         android:layout_width="wrap_content"
         android:layout_height="0dp"

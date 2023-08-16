@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.roynaldi19.bpai01_02ticketingapps">
+    package="com.roynaldi19.dc4_01ticketingapps">
 
     <application
         android:allowBackup="true"
@@ -14,7 +14,7 @@
         android:theme="@style/Theme.BPAI01_02TicketingApps"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name="com.roynaldi19.dc4_01ticketingapps.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

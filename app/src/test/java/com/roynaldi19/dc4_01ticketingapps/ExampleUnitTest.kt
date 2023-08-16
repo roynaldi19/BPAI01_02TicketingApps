@@ -1,4 +1,4 @@
-package com.roynaldi19.bpai01_02ticketingapps
+package com.roynaldi19.dc4_01ticketingapps
 
 import org.junit.Test
 
